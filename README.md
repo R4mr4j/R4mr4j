@@ -1,27 +1,195 @@
-<h1 align="center">Hi 👋, I'm Ramraj Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4mr4j&label=Profile%20views&color=0e75b6&style=flat" alt="r4mr4j" /> </p>
+# 👋 Hey, I'm **Ramraj Kumawat**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4mr4j" alt="r4mr4j" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Automation+Enthusiast+%E2%9A%A1;Building+Cool+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/ramraj__kumawat" target="blank"><img src="https://img.shields.io/twitter/follow/ramraj__kumawat?logo=twitter&style=for-the-badge" alt="ramraj__kumawat" /></a> </p>
+<br>
 
-- 📫 How to reach me **rajowllix04@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=R4mr4j&label=Profile%20Views&color=00ffff&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ramraj__kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramraj__kumawat" height="30" width="40" /></a>
-<a href="https://fb.com/ramrajkumawat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramrajkumawat01" height="30" width="40" /></a>
-<a href="https://instagram.com/ramraj_kumawat_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramraj_kumawat_xd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/miss_prishu_inxiide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miss_prishu_inxiide" height="30" width="40" /></a>
+<br><br>
+
+<a href="https://github.com/R4mr4j">
+<img src="https://img.shields.io/github/followers/R4mr4j?label=Followers&style=for-the-badge&color=00ff88" />
+</a>
+<a href="https://github.com/R4mr4j?tab=repositories">
+<img src="https://img.shields.io/github/stars/R4mr4j?label=Total%20Stars&style=for-the-badge&color=ffd700" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Ramraj Kumawat
+username: R4mr4j
+role: Full Stack Developer
+focus:
+  - Web Development
+  - Python Development
+  - Automation
+  - API Integration
+  - SaaS Development
+  - Developer Tools
+
+mindset: "Build • Learn • Improve • Repeat 🚀"
+```
+
+💻 I enjoy turning ideas into **real, usable software**.
+
+⚡ I love experimenting with **Python, web technologies, APIs and automation**.
+
+🧠 Always learning something new and improving existing projects.
+
+🚀 My goal is to build projects that are **useful, scalable and beautifully designed**.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🌐 Web & Frameworks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4mr4j&show_icons=true&locale=en&layout=compact" alt="r4mr4j" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nextjs,react,nodejs,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4mr4j&show_icons=true&locale=en" alt="r4mr4j" /></p>
+### 🗄️ Database & Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4mr4j&" alt="r4mr4j" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🔥 Raj x Wp 2.0
+
+**A feature-rich web automation / utility project with a modern interface and multiple integrated tools.**
+
+<a href="https://github.com/R4mr4j/Raj-x-Wp2.0">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<br><br>
+
+### 💎 Priishu Zone
+
+**A Flask-based multi-tool web platform featuring task management, utility tools, admin controls and API integrations.**
+
+<a href="https://github.com/R4mr4j/Priishu-Zone">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=R4mr4j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mr4j&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=R4mr4j&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/R4mr4j/R4mr4j/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R4mr4j&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=R4mr4j&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/R4mr4j">
+<img src="https://img.shields.io/badge/GitHub-R4mr4j-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/R4mr4j?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-00F7FF?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### `"First make it work. Then make it better. Then make it beautiful."` 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+**Thanks for visiting my profile! ❤️**
+
+<img src="https://komarev.com/ghpvc/?username=R4mr4j&label=Thanks%20for%20visiting&color=blueviolet&style=flat-square" />
+
+</div>
